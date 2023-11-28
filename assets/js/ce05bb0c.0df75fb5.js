@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktalan_rex=self.webpackChunktalan_rex||[]).push([[1683],{3774:e=>{e.exports=JSON.parse('{"label":"greetings","permalink":"/blog/tags/greetings","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
