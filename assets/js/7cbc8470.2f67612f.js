@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktalan_rex=self.webpackChunktalan_rex||[]).push([[8503],{9132:a=>{a.exports=JSON.parse('{"permalink":"/lab-docusaurus/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
